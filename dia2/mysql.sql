@@ -4,4 +4,3 @@ CREATE DATABASE db_g6
 USE db_g6;
 
 show tables;
-
